@@ -21,7 +21,6 @@ public class MybatisUtils {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     //既然有了 SqlSessionFactory，顾名思义，我们就可以从中获得 SqlSession 的实例了。
